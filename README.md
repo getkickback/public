@@ -4,5 +4,5 @@ In this repository and adjoined wiki we will share some general tips on how to w
  * [Svosj.no - Rabattkoder](https://svosj.no/)
  * [rabattkod1.se - Rabattkoder i Sverige](https://rabattkod1.se/)
  * [Rabattmonster in Sweden - Enda mer rabattkoder](https://rabattmonster.se/)
- * [Rabattmonster Österreich - Guscheine](https://rabattmonster.at/)
+ * [Kickback Österreich - Guscheine](https://kickback.at/)
 
